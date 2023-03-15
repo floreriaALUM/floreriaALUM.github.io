@@ -7,7 +7,7 @@ description: La floreria ALUM tiene una gran variendad de flores y rosas, para a
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
+<p class="describe-text">Florerias ALUM S.A y C.V una empresa que sabe tratar a la clienta, somos ya 2078 sursales alrededor de toda la republica mexicana. Gracias por su apoyo.</p>
 <br>
 Florerias ALUM tiene gran reconocimiento en toda la industria para estos numeros nos hemos ganado una reputacion como ninguna otra, porque se preguntaran: por la gran acptacion que tenemos como organizacion al cliente nuestros cliente sabe perfectamente como los hemos atendido es mas bien a la clientela. Nuestra empresa esta dedicada al cuidado del medio ambiente por eso tenemos el deber de politicas que no afecten nuestras medio ambiente para esto se an implenmentado medidas para lograr este cambio tan urgente al medio ambiente todo esto va de acuerdo a las politicas, hemos acatado para. Todo aquel cliente tiene un buen trato a principio tanto a fin. Nuesrtras empresa esta siempre alado del cliente por eso el reconomiento que nos hemos ganando en nuestro rubro.Gracias y fuerte saludo.
 
