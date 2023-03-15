@@ -1,17 +1,17 @@
 ---
 layout: page
 full_logo: true
-title: 
+title: Floreria Alum S.A de C.V
 subtitle: 
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+description: La floreria ALUM tiene una gran variendad de flores y rosas, para aquellos amantes de las sorpresas es bien sabido que la Floreria ALUM tiene una buen trato con los clientes a quien les manda un caluroso abrazo forma parte de la compañia el lidelar sorpresas que no se an visto por favor llame y revise las ofertas que tenemos en la plantilla de ante mano Gracias:-)_.
 sitemap:
   priority: 1.0
 ---
 <p class="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
 <br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
+Florerias ALUM tiene gran reconocimiento en toda la industria para estos numeros nos hemos ganado una reputacion como ninguna otra, porque se preguntaran: por la gran acptacion que tenemos como organizacion al cliente nuestros cliente sabe perfectamente como los hemos atendido es mas bien a la clientela. Nuestra empresa esta dedicada al cuidado del medio ambiente por eso tenemos el deber de politicas que no afecten nuestras medio ambiente para esto se an implenmentado medidas para lograr este cambio tan urgente al medio ambiente todo esto va de acuerdo a las politicas, hemos acatado para. Todo aquel cliente tiene un buen trato a principio tanto a fin. Nuesrtras empresa esta siempre alado del cliente por eso el reconomiento que nos hemos ganando en nuestro rubro.Gracias y fuerte saludo.
 
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+Flores tanto para eventos que nesesitan grandes flores hasta eventos pequeños para todo hay, es bien sabido que los diseños que elaboramos tienes fines distintos para quienes van dedicados todo esto a nuestro personal que de maneras muy amables trata a clientela no hay mejor trato que el del personal, por favor te invitamos a revisar nuestras extensas platillas para puedas notar el detalle de nuestras obras de arte. Todo esto van de acuerdo al servicio todo un deleite para nuestros invitados y mas.
 
 <br>
 <br>
