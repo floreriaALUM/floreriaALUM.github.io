@@ -19,7 +19,15 @@ Flores tanto para eventos que nesesitan grandes flores hasta eventos pequeños p
 Ubicanos en tu sucursal mas cercana:
 
 
-Contactanos:
+                          "Contactanos"
+
+Telefono:
+
+Facebook:
+
+Youtube:
+
+Sitio Web:
 <br>
 <br>
 <br>
