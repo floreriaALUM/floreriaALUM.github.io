@@ -9,12 +9,12 @@
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
   tags: [tag1, tag2] # A list of tags
 
-- name: Pudina Fresh Jekyll Theme
+- name: Amapola silvestre
   id: pf
   img_src: 
-  description_less: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+  description_less: Es una de las flores silvestres más conocidas debido a sus llamativas flores de color rojo intenso y con forma de campana.
   description_more: >
-    <p>This site uses Pudhina Fresh theme.</p>
+    <p>Llegan a crecer hasta casi alcanzar los 50 cm de altura, además de ella se extrae el látex de opio.</p>
   action_buttons: >
     <a href="https://github.com/ritijjain/pudhina-fresh" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
@@ -32,12 +32,12 @@
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
   tags: [tag3, docs]
 
-- name: Project Three
+- name: Flor de Cempasúchil
   id: p3
   img_src: /assets/img/weatherpie-page.png
-  description_less: Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam.
+  description_less: Nombre común de esta especie originaria de México y Centroamérica, es una de las flores más representativas del Día de Muertos.
   description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p>Esta flor de colores llamativos que van desde el amarillo hasta el rojo florece en otoño.</p>
   action_buttons: >
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
