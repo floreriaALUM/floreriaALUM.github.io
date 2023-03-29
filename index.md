@@ -21,13 +21,13 @@ Ubicanos en tu sucursal mas cercana:(https://www.google.com.mx/maps/place/Calz.+
 
                           "Contactanos"
 
-Telefono:
+Telefono: 55 6989 4241
 
-Facebook:
+Facebook: (Johan Salazar)
 
-Youtube:
+Youtube: JOHAN FLORES @johanflores3263
 
-Sitio Web:
+Sitio Web: (https://floreriaalum.github.io/)
 <br>
 <br>
 <br>
