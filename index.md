@@ -16,7 +16,7 @@ Florerias ALUM tiene gran reconocimiento en toda la industria para estos numeros
 Flores tanto para eventos que nesesitan grandes flores hasta eventos pequeños para todo hay, es bien sabido que los diseños que elaboramos tienes fines distintos para quienes van dedicados todo esto a nuestro personal que de maneras muy amables trata a clientela no hay mejor trato que el del personal, por favor te invitamos a revisar nuestras extensas platillas para puedas notar el detalle de nuestras obras de arte. Todo esto van de acuerdo al servicio todo un deleite para nuestros invitados y mas.
 
 
-Ubicanos en tu sucursal mas cercana:
+Ubicanos en tu sucursal mas cercana:(https://www.google.com.mx/maps/place/Calz.+Ignacio+Zaragoza+1154,+Agr%C3%ADcola+Pantitl%C3%A1n,+Iztacalco,+08100+Ciudad+de+M%C3%A9xico,+CDMX/@19.4008744,-99.0633599,18z/data=!3m1!4b1!4m6!3m5!1s0x85d1fc5750cb8411:0x9018b2ff8582dd47!8m2!3d19.4008719!4d-99.0622656!16s%2Fg%2F11c23g6ttk)
 
 
                           "Contactanos"
